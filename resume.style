@@ -1,0 +1,81 @@
+fontsAlias:
+  stdFont: DroidSans
+  stdBold: DroidSans-Bold
+  stdItalic: Helvetica-Oblique
+  stdBoldItalic: Helvetica-BoldOblique
+  stdSans: DroidSans
+  stdSansBold: DroidSans-Bold
+  stdSansItalic: Helvetica-Oblique
+  stdSansBoldItalic: Helvetica-BoldOblique
+  stdMono: Courier
+  stdMonoItalic: Courier-Oblique
+  stdMonoBold: Courier-Bold
+  stdMonoBoldItalic: Courier-BoldOblique
+  stdSerif: Times-Roman
+
+styles:
+
+    author:
+        alignment: TA_CENTER
+        fontName: stdSansBold
+        fontSize: 120%
+        parent: bodytext
+
+    centered:
+        alignment: TA_CENTER
+        fontName: stdBold
+        parent: bodytext
+
+    class: parent: bodytext
+    heading:
+        fontName: stdSansBold
+        fontSize: 10
+        leading: 10
+        leftIndent: 0
+        spaceBefore: 16
+        textColor: #000000
+
+    heading1: fontSize: 110%
+    heading2: fontSize: 110%
+    heading3: fontSize: 100%
+    heading4: fontSize: 100%
+    heading5: fontSize: 100%
+    heading6: fontSize: 100%
+
+    table:
+        textColor: #00669b
+        spaceBefore:6
+        spaceAfter:0
+        alignment: TA_CENTER
+        commands: []
+               [VALIGN, [ 0, 0 ], [ -1, -1 ], MIDDLE ]
+               [ALIGN, [ 0, 0 ], [ -1, -1 ], RIGHT ]
+               [INNERGRID, [ 0, 0 ], [ -1, -1 ], 0.0, #f2f5f6 ]
+               [ROWBACKGROUNDS, [0, 0], [-1, -1], [white,#E0E0E0]]
+               [BOX, [ 0, 0 ], [ -1, -1 ], 1, #f2f5f6 ]
+               [BACKGROUND, [0, 0], [-1, 1], #f2f5f6]
+
+    field-list:
+        parent: bodytext
+        commands: []
+            [VALIGN, [ 0, 0 ], [ -1, -1 ], TOP ]
+            [TOPPADDING, [ 0, 0 ], [ -1, -1 ], 0 ]
+        colWidths: [2.8cm, null]
+        spaceBefore: 6
+
+    fieldname:
+      parent: bodytext
+      alignment: TA_RIGHT
+      fontName: stdFont
+      textColor: #00669b
+
+    fieldvalue:
+      parent: bodytext
+      alignment: TA_LEFT
+
+    bodytext:
+         parent: normal
+         spaceBefore: 0
+         spaceAfter: 0
+         alignment: TA_JUSTIFY
+         hyphenation: true

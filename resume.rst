@@ -31,6 +31,9 @@ LANGUES
 
 EXPERIENCES
 -----------
+:2012 (2 mois) : | **Ingénieur/Developeur Symfony2/PHP5 – Dacast – Paris (75)**
+                 | Developpement d'une plateforme ecommerce
+
 :2010 : | **Lead developeur – lacompany – Montrouge (92)**
         | Suivi des travaux developpement
         | Mise en place d'outils de gestion de projet, de règles et de conventions de code
@@ -50,6 +53,11 @@ EXPERIENCES
 
 PROJETS RECENTS
 ---------------
+:2012 : | **Plateforme Ecommerce Dacast.com**
+        | `www.dacast.com <http://www.dacast.com>`_
+        | Developpement de services web 
+        | Technologies : Symfony2, Twig, Api REST, AMF, Redis, MySql, RabbitMQ
+        |
 
 :2012 : | **Rapport annuel 2011 – AXA**
         | `rapportannuel.axa.com <http://rapportannuel.axa.com>`_

@@ -17,11 +17,11 @@ FORMATION
 COMPÉTENCES TECHNIQUES
 ----------------------
 :Systèmes : Unix/Linux, MacOSX , Windows
-:Languages : PHP5, HTML5, CSS3, Javascript, JAVA, J2EE, C, C++, C#, Objective C, Shell
+:Languages : PHP5, HTML5, CSS3, Javascript, JAVA, C, C++, C#, Objective C, Shell
 :Conception : UML, Design Pattern
-:Framework/Outils : Symfony 2, symfony 1.4, Twig, Doctrine, Less, CoffeeScript, Capistrano
-:Gestion de projet : Git, Svn, Cvs, Trac, Redmine, Méthodologie Agile
-:Base de donnée : SQL, MySQL, SQlite, MongoDB, CouchDB
+:Framework/Outils : Symfony 2, symfony 1.4, Twig, Doctrine, Less, CoffeeScript, Capistrano, Fabric, RabbitMQ
+:Gestion de projet : Git, Svn, Cvs, Trac, Redmine, Méthodologies Agile
+:Base de donnée : SQL, MySQL, Redis
 :Logiciels : Office, Photoshop, Vim, Eclipse, Netbeans
 
 LANGUES
@@ -32,7 +32,7 @@ LANGUES
 EXPERIENCES
 -----------
 :2012 : | **Ingénieur/Developeur Symfony2/PHP5 – Dacast – Paris (75)**
-        | Developpement d'une plateforme ecommerce
+        | Developpement/Spécifiaction d'une application ecommerce complexe et des API associées.
 
 :2010 : | **Lead developeur – lacompany – Montrouge (92)**
         | Suivi des travaux developpement
@@ -55,7 +55,7 @@ PROJETS RECENTS
 ---------------
 :2012 : | **Plateforme Ecommerce Dacast.com**
         | `www.dacast.com <http://www.dacast.com>`_
-        | Developpement de services web 
+        | Developpement du noyau ecommerce, et des API REST, AMF associées
         | Technologies : Symfony2, Twig, Api REST, AMF, Redis, MySql, RabbitMQ
         |
 

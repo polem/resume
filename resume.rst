@@ -31,8 +31,8 @@ LANGUES
 
 EXPERIENCES
 -----------
-:2012 (2 mois) : | **Ingénieur/Developeur Symfony2/PHP5 – Dacast – Paris (75)**
-                 | Developpement d'une plateforme ecommerce
+:2012 : | **Ingénieur/Developeur Symfony2/PHP5 – Dacast – Paris (75)**
+        | Developpement d'une plateforme ecommerce
 
 :2010 : | **Lead developeur – lacompany – Montrouge (92)**
         | Suivi des travaux developpement

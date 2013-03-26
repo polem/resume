@@ -16,13 +16,12 @@ FORMATION
 
 COMPÉTENCES TECHNIQUES
 ----------------------
-:Systèmes : Unix/Linux, MacOSX , Windows
-:Languages : PHP5, HTML5, CSS3, Javascript, JAVA, C, C++, C#, Objective C, Shell
+:Systèmes : Unix/Linux, MacOSX, Windows
+:Languages : PHP5, SQL, HTML5, CSS3/Less/Sass, Javascript/CoffeeScript, Shell
 :Conception : UML, Design Pattern
-:Framework/Outils : Symfony 2, symfony 1.4, Twig, Doctrine, Less, CoffeeScript, Capistrano, Fabric, RabbitMQ
-:Gestion de projet : Git, Svn, Cvs, Trac, Redmine, Méthodologies Agile
-:Base de donnée : SQL, MySQL, Redis
-:Logiciels : Office, Photoshop, Vim, Eclipse, Netbeans
+:Frameworks : Symfony 2, symfony 1.4, AngularJs
+:Outils : Git/Svn, Behat, PhpUnit, Capistrano, Yeoman/Gruntjs, RabbitMQ
+:Gestion de projet : Redmine, Agile (Scrum)
 
 LANGUES
 -------
@@ -31,6 +30,10 @@ LANGUES
 
 EXPERIENCES
 -----------
+:2012 : | **Ingénieur/Developeur Symfony2/PHP5 – Lanetscouade – Paris (75)**
+        | Developpement d'applications sociales en Symfony2
+        | Developpement d'applications web avec AngularJs
+
 :2012 : | **Ingénieur/Developeur Symfony2/PHP5 – Dacast – Paris (75)**
         | Developpement/Spécifiaction d'une application ecommerce complexe et des API associées.
 
@@ -53,6 +56,10 @@ EXPERIENCES
 
 PROJETS RECENTS
 ---------------
+:2012 : | **Plateforme de consultation**
+        | Developpement d'une plateforme de consultation (Backend + API + Client)
+        | Technologies / Outils: Symfony2, API REST, MySql, AngularJs, Behat, PHPUnit, Jenkins
+
 :2012 : | **Plateforme Ecommerce Dacast.com**
         | `www.dacast.com <http://www.dacast.com>`_
         | Developpement du noyau ecommerce, et des API REST, AMF associées

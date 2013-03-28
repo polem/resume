@@ -17,11 +17,10 @@ FORMATION
 COMPÉTENCES TECHNIQUES
 ----------------------
 :Systèmes : Unix/Linux, MacOSX, Windows
-:Languages : PHP5, SQL, HTML5, CSS3/Less/Sass, Javascript/CoffeeScript, Shell
-:Conception : UML, Design Pattern
-:Frameworks : Symfony 2, symfony 1.4, AngularJs
+:Languages : PHP5, SQL, HTML5, CSS3/Less/Sass, Javascript/CoffeeScript, Shell, C/C++/Objective C, Java
+:Conception / Methodologies : UML, Design Patterns, TDD, Scrum
+:Frameworks Web / CMS: Symfony 2, symfony 1.4, Silex, Drupal, AngularJs, Backbone JS
 :Outils : Git/Svn, Behat, PhpUnit, Capistrano, Yeoman/Gruntjs, RabbitMQ
-:Gestion de projet : Redmine, Agile (Scrum)
 
 LANGUES
 -------

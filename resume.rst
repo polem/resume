@@ -1,12 +1,12 @@
-Paul-Emile MINY - Ingénieur en informatique
-===========================================
+Paul-Emile MINY - Ingénieur/Développeur en informatique
+======================================================
 
 +-------------------------------------------+-----------------------------+
-|:Addresse : | 63 rue de Lyon               |                             |
-|            | 75012 PARIS                  |.. image:: paulemileminy.jpg |
+|:Addresse : | 3 rue Charles Delescluze     |                             |
+|            | 75011 PARIS                  |.. image:: paulemileminy.jpg |
 |:Tel. : +33(0)6 16 82 85 61                |   :height: 383px            |
 |:Email : paulemile.miny@gmail.com          |   :width: 317px             |
-|:Age: 26 ans                               |   :align: right             |
+|:Age: 27 ans                               |   :align: right             |
 +-------------------------------------------+-----------------------------+
 
 FORMATION
@@ -16,11 +16,11 @@ FORMATION
 
 COMPÉTENCES TECHNIQUES
 ----------------------
-:Systèmes : Unix/Linux, MacOSX, Windows
+:Systèmes : Unix/Linux, MacOSX
 :Languages : PHP5, SQL, HTML5, CSS3/Less/Sass, Javascript/CoffeeScript, Shell, C/C++/Objective C, Java
-:Conception / Methodologies : UML, Design Patterns, TDD, Scrum
-:Frameworks Web / CMS: Symfony 2, symfony 1.4, Silex, Drupal, AngularJs, Backbone JS
-:Outils : Git/Svn, Behat, PhpUnit, Capistrano, Yeoman/Gruntjs, RabbitMQ
+:Conception/Methodologies : UML, Design Patterns, TDD, Scrum (Kaban)
+:Frameworks Web/CMS : Symfony 2, symfony 1.4, Silex, Drupal, AngularJs, Backbone JS
+:Outils : Git/Svn, Behat, PhpUnit, Capistrano, Yeoman/GruntJs, RabbitMQ, Redis
 
 LANGUES
 -------
@@ -29,8 +29,9 @@ LANGUES
 
 EXPERIENCES
 -----------
-:2012 : | **Ingénieur/Developeur Symfony2/PHP5 – Lanetscouade – Paris (75)**
+:Depuis 2012 : | **Lead developeur Symfony2/PHP5/Drupal7 – LaNetscouade – Paris (75)**
         | Developpement d'applications sociales en Symfony2
+        | Developpements Drupal
         | Developpement d'applications web avec AngularJs
 
 :2012 : | **Ingénieur/Developeur Symfony2/PHP5 – Dacast – Paris (75)**
@@ -49,12 +50,13 @@ EXPERIENCES
                  | Développement d’un outil de gestion de configuration (LAMP) interne : gestion des produits ATEME, référencement, documentation, gestion de bugs, reporting
 
 
-.. raw:: pdf
-
-    PageBreak
-
 PROJETS RECENTS
 ---------------
+
+:2013 : | **Developement du site Kedge Business School (sortie en septembre)**
+        | Developpement d'un site en Drupal pour un école de commerce
+        | Technologies / Outils: Drupal7, CSS3
+
 :2012 : | **Plateforme de consultation**
         | Developpement d'une plateforme de consultation (Backend + API + Client)
         | Technologies / Outils: Symfony2, API REST, MySql, AngularJs, Behat, PHPUnit, Jenkins
@@ -102,3 +104,4 @@ PROJETS RECENTS
 :2009: | **Design/Programmation du site Paris-one.com**
        | `paris-one.com/ <http://paris-one.com>`_
        | Technologies : symfony 1.4, HTML, CSS, icecast, SAM BROADCASTER
+

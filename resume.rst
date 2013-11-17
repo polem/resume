@@ -17,9 +17,9 @@ FORMATION
 COMPÉTENCES TECHNIQUES
 ----------------------
 :Systèmes : Unix/Linux, MacOSX
-:Languages : PHP5, SQL, HTML5, CSS3/Less/Sass, Javascript/CoffeeScript, Shell, C/C++/Objective C, Java
+:Languages : PHP5, Javascript/CoffeeScript, SQL, HTML5, CSS3/Less/Sass, C/C++, Java
 :Conception/Methodologies : UML, Design Patterns, TDD, Scrum (Kaban)
-:Frameworks Web/CMS : Symfony 2, symfony 1.4, Silex, Drupal, AngularJs, Backbone JS
+:Frameworks Web/CMS : Symfony 2, symfony 1.4, Silex, Drupal 7, AngularJs, Backbone JS
 :Outils : Git/Svn, Behat, PhpUnit, Capistrano, Yeoman/GruntJs, RabbitMQ, Redis
 
 LANGUES
@@ -29,10 +29,10 @@ LANGUES
 
 EXPERIENCES
 -----------
-:Depuis 2012 : | **Lead developeur Symfony2/PHP5/Drupal7 – LaNetscouade – Paris (75)**
+:Depuis 2012 : | **Lead developeur Symfony2/PHP5/Drupal7/Javascript – LaNetscouade – Paris (75)**
         | Developpement d'applications sociales en Symfony2
         | Developpements Drupal
-        | Developpement d'applications web avec AngularJs
+        | Developpement d'applications web riches AngularJs/Javascript
 
 :2012 : | **Ingénieur/Developeur Symfony2/PHP5 – Dacast – Paris (75)**
         | Developpement/Spécifiaction d'une application ecommerce complexe et des API associées.
@@ -53,7 +53,15 @@ EXPERIENCES
 PROJETS RECENTS
 ---------------
 
-:2013 : | **Developement du site Kedge Business School (sortie en septembre)**
+:2013 : | **Lead Dev web documentaire pour bforbank**
+        | Developpement d'un web documentaire pour bforbank
+        | Technologies / Outils: Grunt, Javascript, CSS3, Api Youtube
+        
+:2013 : | **Lead Dev plateforme faire-simple.gouv.fr**
+        | Developpement de la plateforme faire-simple.gouv.fr
+        | Technologies / Outils: Drupal7, Solr, Bower, Composer
+        
+:2013 : | **Lead Dev pour le développement du site Kedge Business School**
         | Developpement d'un site en Drupal pour un école de commerce
         | Technologies / Outils: Drupal7, CSS3
 

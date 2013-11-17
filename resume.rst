@@ -57,11 +57,11 @@ PROJETS RECENTS
         | Developpement d'un web documentaire pour bforbank
         | Technologies / Outils: Grunt, Javascript, CSS3, Api Youtube
         
-:2013 : | **Lead Dev plateforme faire-simple.gouv.fr**
+        | **Lead Dev plateforme faire-simple.gouv.fr**
         | Developpement de la plateforme faire-simple.gouv.fr
         | Technologies / Outils: Drupal7, Solr, Bower, Composer
         
-:2013 : | **Lead Dev pour le développement du site Kedge Business School**
+        | **Lead Dev pour le développement du site Kedge Business School**
         | Developpement d'un site en Drupal pour un école de commerce
         | Technologies / Outils: Drupal7, CSS3
 
@@ -69,13 +69,13 @@ PROJETS RECENTS
         | Developpement d'une plateforme de consultation (Backend + API + Client)
         | Technologies / Outils: Symfony2, API REST, MySql, AngularJs, Behat, PHPUnit, Jenkins
 
-:2012 : | **Plateforme Ecommerce Dacast.com**
+        | **Plateforme Ecommerce Dacast.com**
         | `www.dacast.com <http://www.dacast.com>`_
         | Developpement du noyau ecommerce, et des API REST, AMF associées
         | Technologies : Symfony2, Twig, Api REST, AMF, Redis, MySql, RabbitMQ
         |
 
-:2012 : | **Rapport annuel 2011 – AXA**
+        | **Rapport annuel 2011 – AXA**
         | `rapportannuel.axa.com <http://rapportannuel.axa.com>`_
         | Technologies : Silex, Twig, HTML5, CSS3, jQuery, coffeeScript, composer, Capistrano
         |

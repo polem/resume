@@ -16,11 +16,11 @@ FORMATION
 
 COMPÉTENCES TECHNIQUES
 ----------------------
-:Systèmes : Unix/Linux, MacOSX
-:Languages : PHP5, Javascript/CoffeeScript, SQL, HTML5, CSS3/Less/Sass, C/C++, Java
+:Systèmes : Unix/Linux, OSX
+:Languages : PHP5, Nodejs/Javascript, SQL, HTML5/CSS3/Sass, C/C++, Java
 :Conception/Methodologies : UML, Design Patterns, TDD, Scrum (Kaban)
-:Frameworks Web/CMS : Symfony 2, symfony 1.4, Silex, Drupal 7, AngularJs, Backbone JS
-:Outils : Git/Svn, Behat, PhpUnit, Capistrano, Yeoman/GruntJs, RabbitMQ, Redis
+:Frameworks Web/CMS : Symfony 2, Drupal 7, AngularJs
+:Outils : Git/Svn, Behat, PHPSpec, PHPUnit, Capistrano, Yeoman/GruntJs/Gulp, Elasticsearch, RabbitMQ, Redis
 
 LANGUES
 -------
@@ -30,7 +30,7 @@ LANGUES
 EXPERIENCES
 -----------
 :Depuis 2012 : | **Lead developeur Symfony2/PHP5/Drupal7/Javascript – LaNetscouade – Paris (75)**
-        | Developpement d'applications sociales en Symfony2
+        | Developpement d'applications Symfony2
         | Developpements Drupal
         | Developpement d'applications web riches AngularJs/Javascript
 
@@ -53,6 +53,14 @@ EXPERIENCES
 PROJETS RECENTS
 ---------------
 
+:2014 : | **Lead Dev refonte service.civique.gouv.fr **
+        | Refonte en Symfony 2 de service.cvique.gouv.fr
+        | Technologies / Outils: Symfony , ElasticSearch, Behat/PHPSpec/Travis, Redis, RabbitMQ, Gulp …  
+        
+:2014 : | **Lead Dev second écran pour Arte (FutureMag)**
+        | Developpement d'un dispositif second écran
+        | Technologies / Outils: Grunt, NodeJS/Javascript, Sass, Silex
+        
 :2013 : | **Lead Dev web documentaire pour bforbank**
         | Developpement d'un web documentaire pour bforbank
         | Technologies / Outils: Grunt, Javascript, CSS3, Api Youtube

@@ -6,7 +6,7 @@ Paul-Emile MINY - Ingénieur/Développeur en informatique
 |            | 75011 PARIS                  |.. image:: paulemileminy.jpg |
 |:Tel. : +33(0)6 16 82 85 61                |   :height: 383px            |
 |:Email : paulemile.miny@gmail.com          |   :width: 317px             |
-|:Age: 27 ans                               |   :align: right             |
+|:Age: 28 ans                               |   :align: right             |
 +-------------------------------------------+-----------------------------+
 
 FORMATION
@@ -53,7 +53,7 @@ EXPERIENCES
 PROJETS RECENTS
 ---------------
 
-:2014 : | **Lead Dev refonte service.civique.gouv.fr **
+:2014 : | **Lead Dev refonte service.civique.gouv.fr**
         | Refonte en Symfony 2 de service.cvique.gouv.fr
         | Technologies / Outils: Symfony , ElasticSearch, Behat/PHPSpec/Travis, Redis, RabbitMQ, Gulp …  
         

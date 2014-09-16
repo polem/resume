@@ -56,15 +56,15 @@ PROJETS RECENTS
 :2014 : | **Lead Dev refonte service.civique.gouv.fr**
         | Refonte en Symfony 2 de service.cvique.gouv.fr
         | Technologies / Outils: Symfony , ElasticSearch, Behat/PHPSpec/Travis, Redis, RabbitMQ, Gulp …  
-        
-:2014 : | **Lead Dev second écran pour Arte (FutureMag)**
+
+        | **Lead Dev second écran pour Arte (FutureMag)**
         | Developpement d'un dispositif second écran
         | Technologies / Outils: Grunt, NodeJS/Javascript, Sass, Silex
         
 :2013 : | **Lead Dev web documentaire pour bforbank**
         | Developpement d'un web documentaire pour bforbank
         | Technologies / Outils: Grunt, Javascript, CSS3, Api Youtube
-        
+
         | **Lead Dev plateforme faire-simple.gouv.fr**
         | Developpement de la plateforme faire-simple.gouv.fr
         | Technologies / Outils: Drupal7, Solr, Bower, Composer

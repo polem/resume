@@ -1,13 +1,13 @@
 Paul-Emile MINY - Ingénieur/Développeur en informatique
 =======================================================
 
-+-------------------------------------------+-----------------------------+
-|:Addresse : | 3 rue Charles Delescluze     |                             |
-|            | 75011 PARIS                  |.. image:: paulemileminy.jpg |
-|:Tel. : +33(0)6 16 82 85 61                |   :height: 383px            |
-|:Email : paulemile.miny@gmail.com          |   :width: 317px             |
-|:Age: 28 ans                               |   :align: right             |
-+-------------------------------------------+-----------------------------+
++-------------------------------------------------------------------------+
+|:Addresse : | 3 rue Charles Delescluze                                   |
+|            | 75011 PARIS                                                |
+|:Tel. : +33(0)6 16 82 85 61                                              |
+|:Email : paulemile.miny@gmail.com                                        |
+|:Age: 30 ans                                                             |
++-------------------------------------------------------------------------+
 
 FORMATION
 ---------
@@ -20,7 +20,7 @@ COMPÉTENCES TECHNIQUES
 :Languages : PHP5, Nodejs/Javascript, SQL, HTML5/CSS3/Sass, C/C++, Java
 :Conception/Methodologies : UML, Design Patterns, TDD, Scrum (Kaban)
 :Frameworks Web/CMS : Symfony 2, Drupal 7, AngularJs
-:Outils : Git/Svn, Behat, PHPSpec, PHPUnit, Capistrano, Yeoman/GruntJs/Gulp, Elasticsearch, RabbitMQ, Redis
+:Outils : Git/Svn, Behat, PHPSpec, PHPUnit, Capistrano, Yeoman/Gulp, Elasticsearch, RabbitMQ, Memcache, Redis
 
 LANGUES
 -------
@@ -53,6 +53,17 @@ EXPERIENCES
 PROJETS RECENTS
 ---------------
 
+:2015 : | **Lead Dev refonte lcp.fr**
+        | Refonte en Drupal 7 de lcp.fr
+        | Technologies / Outils: Drupal 7, Elasticsearch, Symfony, Memcache, Nginx
+
+        | **Lead Dev refonte merignac.com**
+        | Refonte en Drupal 7 de lcp.fr
+        | Technologies / Outils: Drupal 7, Elasticsearch, Nginx
+
+        | **Lead Dev refonte bluelinkservices.com**
+        | Technologies / Outils: Angular Js, Drupal 7
+        
 :2014 : | **Lead Dev refonte service.civique.gouv.fr**
         | Refonte en Symfony 2 de service.cvique.gouv.fr
         | Technologies / Outils: Symfony , ElasticSearch, Behat/PHPSpec/Travis, Redis, RabbitMQ, Gulp …  

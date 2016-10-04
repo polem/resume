@@ -11,16 +11,16 @@ Paul-Emile MINY - Ingénieur/Développeur en informatique
 
 FORMATION
 ---------
-:2010 : Diplôme d'ingénieur en électronique/informatique, option systèmes d'informations – ESEO – ANGERS (49)
+:2009 : Diplôme d'ingénieur en électronique/informatique, option systèmes d'informations – ESEO – ANGERS (49)
 :2003 : Baccalauréat Scientifique - Lycée Pasteur – BESANÇON (25)
 
 COMPÉTENCES TECHNIQUES
 ----------------------
 :Systèmes : Unix/Linux, OSX
-:Languages : PHP5, Nodejs/Javascript, SQL, HTML5/CSS3/Sass, C/C++, Java
+:Languages : Nodejs/Javascript, PHP, SQL, HTML5/CSS3/Sass, C/C++, Java
 :Conception/Methodologies : UML, Design Patterns, TDD, Scrum (Kaban)
-:Frameworks Web/CMS : Symfony 2, Drupal 7, AngularJs
-:Outils : Git/Svn, Behat, PHPSpec, PHPUnit, Capistrano, Yeoman/Gulp, Elasticsearch, RabbitMQ, Memcache, Redis
+:Frameworks Web/CMS : Symfony 3, Drupal 8/7, ReactJs, AngularJs
+:Outils : Git, GraphQl, Behat, PHPSpec, PHPUnit, Capistrano, Webpack, Gulp, Elasticsearch, RabbitMQ, Memcache, Redis
 
 LANGUES
 -------
@@ -30,63 +30,84 @@ LANGUES
 EXPERIENCES
 -----------
 :Depuis 2012 : | **Lead developeur Symfony2/PHP5/Drupal7/Javascript – LaNetscouade – Paris (75)**
-        | Developpement d'applications Symfony2
+        | Developpement d'applications Symfony2/3
         | Developpements Drupal
-        | Developpement d'applications web riches AngularJs/Javascript
+        | Developpement d'applications web riches ReactJs/AngularJs/Javascript
+        |
 
 :2012 : | **Ingénieur/Developeur Symfony2/PHP5 – Dacast – Paris (75)**
         | Developpement/Spécifiaction d'une application ecommerce complexe et des API associées.
+        |
 
 :2010 : | **Lead developeur – lacompany – Montrouge (92)**
         | Suivi des travaux developpement
         | Mise en place d'outils de gestion de projet, de règles et de conventions de code
         | Gestion des serveurs de production (installation, mise à jour, backup, configuration, mise en production des projets)
         | Dévelopement backend et frontend – Symfony 2, symfony 1.4, HTML5, CSS3, javascript
+        |
 
 :2009 (6 mois) : | **Stage de fin d'étude – Développeur web PHP5 – Sensio labs – Clichy (91)**
                  | Maintenance, développement de projets courts sur le framework symfony 1.4 et PHP5
+                 |
 
 :2008 (4 mois) : | **Stage – Développeur web PHP5 – Ateme – Bièvres (92)**
                  | Développement d’un outil de gestion de configuration (LAMP) interne : gestion des produits ATEME, référencement, documentation, gestion de bugs, reporting
+                 |
 
 
 PROJETS RECENTS
 ---------------
 
+:2016 : | **Lead Dev refonte merignac.com**
+        | `www.merignac.com <http://www.merignac.com>`_
+        | Refonte en Drupal 7 de merignac.com
+        | Technologies / Outils: Drupal 7, Elasticsearch
+        |
+
+        | **Lead Dev comparateur politique lasantecandidate.fr**
+        | `lasantecandidate.fr <http://lasantecandidate.fr>`_
+        | Technologies / Outils: React Js, Drupal 7
+        |
+
 :2015 : | **Lead Dev refonte lcp.fr**
+        | `lcp.fr <http://www.lcp.fr>`_
         | Refonte en Drupal 7 de lcp.fr
         | Technologies / Outils: Drupal 7, Elasticsearch, Symfony, Memcache, Nginx
-
-        | **Lead Dev refonte merignac.com**
-        | Refonte en Drupal 7 de lcp.fr
-        | Technologies / Outils: Drupal 7, Elasticsearch, Nginx
+        |
 
         | **Lead Dev refonte bluelinkservices.com**
         | Technologies / Outils: Angular Js, Drupal 7
-        
+        |
+
 :2014 : | **Lead Dev refonte service.civique.gouv.fr**
         | Refonte en Symfony 2 de service.cvique.gouv.fr
-        | Technologies / Outils: Symfony , ElasticSearch, Behat/PHPSpec/Travis, Redis, RabbitMQ, Gulp …  
+        | Technologies / Outils: Symfony , ElasticSearch, Behat/PHPSpec/Travis, Redis, RabbitMQ, Gulp …
+        |
 
         | **Lead Dev second écran pour Arte (FutureMag)**
         | Developpement d'un dispositif second écran
         | Technologies / Outils: Grunt, NodeJS/Javascript, Sass, Silex
-        
+        |
+
 :2013 : | **Lead Dev web documentaire pour bforbank**
         | Developpement d'un web documentaire pour bforbank
         | Technologies / Outils: Grunt, Javascript, CSS3, Api Youtube
+        |
 
         | **Lead Dev plateforme faire-simple.gouv.fr**
         | Developpement de la plateforme faire-simple.gouv.fr
         | Technologies / Outils: Drupal7, Solr, Bower, Composer
-        
+        |
+
         | **Lead Dev pour le développement du site Kedge Business School**
         | Developpement d'un site en Drupal pour un école de commerce
         | Technologies / Outils: Drupal7, CSS3
+        |
 
 :2012 : | **Plateforme de consultation**
         | Developpement d'une plateforme de consultation (Backend + API + Client)
         | Technologies / Outils: Symfony2, API REST, MySql, AngularJs, Behat, PHPUnit, Jenkins
+        |
 
         | **Plateforme Ecommerce Dacast.com**
         | `www.dacast.com <http://www.dacast.com>`_
@@ -127,8 +148,4 @@ PROJETS RECENTS
               | `stimit.com/ <http://stimit.com>`_
               | Technologies : symfony 1.4, Symfony2, Twig, HTML, CSS, jQuery, Doctrine, Capistrano
               | Clients: Colgate-Palmolive, HSBC, Nestlé, Barclay, Bel, Federal Mogul, Danone, Bouygues Telecom
-
-:2009: | **Design/Programmation du site Paris-one.com**
-       | `paris-one.com/ <http://paris-one.com>`_
-       | Technologies : symfony 1.4, HTML, CSS, icecast, SAM BROADCASTER
 

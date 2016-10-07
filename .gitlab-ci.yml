@@ -1,0 +1,7 @@
+image: polem/docker-python-docutils:latest
+
+pdf:
+  script: rst2pdf -s resume.style --font-folder=~/Library/Fonts resume.rst -o resume.pdf
+  artifacts:
+    paths:
+    - resume.pdf

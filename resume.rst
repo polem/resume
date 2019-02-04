@@ -6,7 +6,7 @@ Paul-Emile MINY - Ingénieur/Développeur en informatique
 |            | 75011 PARIS                                                |
 |:Tel. : +33(0)6 16 82 85 61                                              |
 |:Email : paulemile.miny@gmail.com                                        |
-|:Age: 30 ans                                                             |
+|:Age: 33 ans                                                             |
 +-------------------------------------------------------------------------+
 
 FORMATION
@@ -18,7 +18,7 @@ COMPÉTENCES TECHNIQUES
 ----------------------
 :Systèmes : Unix/Linux, OSX
 :Languages : Nodejs/Javascript, PHP, SQL, HTML5/CSS3/Sass, C/C++, Java
-:Conception/Methodologies : UML, Design Patterns, TDD, Scrum (Kaban)
+:Conception/Methodologies : UML, Design Patterns, TDD, Scrum (Kanban)
 :Frameworks Web/CMS : Symfony 3, Drupal 8/7, ReactJs, AngularJs
 :Outils : Git, GraphQl, Behat, PHPSpec, PHPUnit, Capistrano, Webpack, Gulp, Elasticsearch, RabbitMQ, Memcache, Redis
 
